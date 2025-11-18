@@ -35,9 +35,9 @@
 
 ## 语言
 
-* [English description](https://github.com/JiGuroLGC/BetterVia/blob/main/README.md)
+* [English description](https://github.com/JiGuroLGC/BetterVia/blob/main/README.en.md)
 
-* [中文说明](https://github.com/JiGuroLGC/BetterVia/blob/main/README.zh.md)
+* [中文说明](https://github.com/JiGuroLGC/BetterVia/blob/main/README.md)
 
 ## 介绍
 
@@ -134,7 +134,7 @@
 <!--
 <div align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/KuaiSnap/main/img/lsposed.png">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lsposed.png">
   </a>
  </div>
  -->
@@ -151,7 +151,7 @@
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | 正式版 |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | 正式版 |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | 正式版 |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/ilrQM39gpwja) | 正式版 (备用) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/i3ZfS3bgn2lc) | 正式版 (备用) |
 
 本模块发布地址仅限于上述所列出的地址，从其他非正规渠道下载到的版本或对您造成任何影响均与我们无关。
 
@@ -176,13 +176,13 @@
 在新版本中，我们引入了"安全修复"模式。您只需授予模块 Root 或文件读取权限，并在主页的菜单中找到"安全修复"选项，点击即可解除限制。
 
 <div align="center">
-<a href="https://github.com/JiGuroLGC/KuaiSnap">
+<a href="https://github.com/JiGuroLGC/BetterVia">
     <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/menu.png">
   </a>
   </div>
   
 <div align="center">
-<a href="https://github.com/JiGuroLGC/KuaiSnap">
+<a href="https://github.com/JiGuroLGC/BetterVia">
     <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/fix.png">
   </a>
   </div>
@@ -196,6 +196,10 @@
 <font color="red">我是特殊区域用户，访问有问题怎么办 ？</font>
 
 没关系，我们为您准备了备用的下载链接，我们保证备用链接下载的软件和发行版是完全一样的，而且我们在 Gitee 等开源社区也有我们的仓库。您可以前往[发行渠道](#release)，移步到其他渠道下载 。
+
+## 设计原理
+
+### 关于去除白名单，详见 [MT论坛 -- 【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html)
 
 <span id="statement"></span>
 
