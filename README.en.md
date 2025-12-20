@@ -3,7 +3,7 @@
 
   <h1>BetterVia</h1>
   <h3>Make Via better</h3>
-  
+
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://github.com/JiGuroLGC/BetterVia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/BetterVia?label=stars"></a>
@@ -42,18 +42,21 @@
 ## Introduce
 
 <p align="center">
-    <a href="https://github.com/JiGuroLGC/BetterVia">
-        <img src="https://socialify.git.ci/JiGuroLGC/BetterVia/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto" alt="socialify"/>
-    </a>
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="http://socialify.git.ci/JiGuroLGC/BetterVia/image?custom_language=Java&description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Auto" width="660" height="300">
+</a>
 </p>
 
 **BetterVia** is a module designed to optimise browser Via settings, aiming to make software usage more streamlined and convenient.
 
-<div align="center">
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/main.png">
-  </a>
- </div>
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/main.png" width="315" height="660">
+</a>
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/info.png" width="315" height="660">
+</a>
+</p>
 
 ## Notes
 
@@ -90,7 +93,7 @@ However, **Via** still has some shortcomings, such as incomplete features and oc
 
 ## Detailed Adaptation
 
-<img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/icon.png" width = "70" height = "70" alt="LOGO"/>
+<img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/icon.png" width = "100" height = "100" alt="LOGO"/>
 
 **Via** ( **mark.via** / **mark.via.gp** )  
 *Supports version V6.8.0*  
@@ -98,49 +101,183 @@ However, **Via** still has some shortcomings, such as incomplete features and oc
 > This project supports both the Chinese version and the Google version of Via
 
 ### Features
-- Bypass whitelist restrictions
-- Super stealth mode
+
+- Remove whitelist restrictions
+- One-click theme switching
+- Script library
+- Ad rule downloads
+- Cookie management
+- Super incognito mode
 - Screenshot protection
 - Eye protection mode
 - Block components
-- One-tap theme switching
-- …
 
+To be continued...
+
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings.png">
-  </a>
-  
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Settings Interface</div>
+
+<br>
+
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/eye.png">
-  </a>
-  
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings2.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Settings Interface (Continued)</div>
+
+<br>
+
+> [!WARNING]
+> The “Enable Experimental Mode” option in module settings is intended solely for developers. Enabling it may restrict certain features. If issues arise after enabling this mode, please disable it.
+
+<br>
+
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/block.png">
-  </a>
-  
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/theme.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Theme Browser</div>
+
+<!----------------------- 主题编辑器 ------------------------>
+
+<br>
+
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/theme.png">
-  </a>
- 
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/editer.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Theme Editor</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/script.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Script Collection</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/adrule.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Advertising Rules</div>
+
+<!----------------------- Cookie 管理 ------------------------>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/cookie.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Cookie Manager</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/cookieinfo.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Cookie Info</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/eye.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Eye Care Settings</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/block.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Blocking Settings</div>
+
+<!----------------------- 美化功能 ------------------------>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/beautify.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Beautification Settings</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/source.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Beautification Effect</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/cmd.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Quick Commands</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/ua.png" width="315" height="660">
+</a>
+</p>
+<div align="center">UA Collection</div>
+
 ## Getting Started  
 
 ### 1. Download  
-Select the appropriate release channel from the [Release Channels](#release) and download the latest version compatible with your system environment, or visit the **LSPosed** official page to download.  
-If you are a user in a restricted region unable to access the site due to network conditions, please refer to the [Other Issues](#question) section for solutions.
+In the [Release Channels](#release), select the appropriate channel to download the latest version compatible with your system environment, or visit the **LSPosed** official page for download.  
+If you are a user in a restricted region unable to access due to network conditions, please refer to [Other Issues](#question) for solutions.
 
 ### 2. Installation  
-Install the package on your device. Read and agree to the [Software Usage Statement](#statement) beforehand. Then enable the module in the module manager and select the module scope.
 
-<!--
-<div align="center">
+#### Rooted Device  
+Flash <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> or another framework onto your device to ensure its functionality.  
+Install the package on your device. Read and agree to the [Software Usage Statement](#statement) beforehand. Then, enable the module in the module manager and select the module scope.
+
+#### Non-Rooted Device
+Download <a href="https://github.com/LSPosed/LSPatch">LSPatch</a> or another root-free framework. After granting appropriate permissions, patch Via. You may choose between local patching or integrated patching. Install the patched package after completion.
+
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lsposed.png">
-  </a>
- </div>
- -->
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lspatch.png" width="315" height="660">
+</a>
+
+Install modle package on your device. Read and agree to the [Software Usage Statement](#statement) beforehand. Then enable the module in the module manager and select the module scope (Local Patch).
 
 ### 3. Run  
-Run the scope software, then enjoy it to the fullest!
+Run Via. You can find the module's settings button in Via's settings interface:
+
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/viaset.png" width="315" height="660">
+</a>
+
+Configure your personalized settings and enjoy!
 
 <span id="release"></span>
 
@@ -151,7 +288,7 @@ Run the scope software, then enjoy it to the fullest!
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | Official Version |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | Official Version |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | Official Version |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/i3ZfS3bgn2lc) | Official Version (Standby) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/iYvdx3cnz0rg) | Official Version (Standby) |
 
 This module is only available for download from the addresses listed above. We are not responsible for any versions obtained through unauthorized channels or for any consequences that may arise from such actions.
 
@@ -160,40 +297,37 @@ This module is only available for download from the addresses listed above. We a
 ## Other Issues
 
 ### Question One
-<font colour="red">Why is **BetterVia** not functioning correctly on my device?</font>
+<font color="red">Why is **BetterVia** not functioning correctly on my device?</font>
 
 **BetterVia** was developed by **AIDE Pro** and **Android IDE**, and has been successfully tested on *Android 10 to 15* systems. It should theoretically be compatible with most users, but please ensure your Android version is neither too low nor too high. If, after confirming these conditions, **BetterVia** still fails to function correctly on your device, it may not yet be compatible with your device model or CPU architecture. Please submit your feedback to us and monitor the **LSPosed** update page or follow the channel updates in the [release channels](#release) for the next version update.  
 
 ### Question Two
-<font colour="red">Why does **BetterVia** offer relatively limited functionality?</font>
+<font color="red">Why does **BetterVia** offer relatively limited functionality?</font>
 
 As **BetterVia** is in its early development phase, our team can only dedicate weekend hours to coding due to work commitments. We will progressively enrich module features during future development cycles.
 
 ### Question Three
-<font colour="red">Why does a "Security Verification Anomaly" pop-up appear after updating or modifying **BetterVia**? And why does "Module Invalid" appear when opening domain-specific software?</font>
+<font color="red">Why does a "Security Verification Anomaly" pop-up appear after updating or modifying **BetterVia**? And why does "Module Invalid" appear when opening domain-specific software?</font>
 
 You have triggered **BetterVia**'s integrity verification. To prevent unauthorised modification, we have implemented low-intensity integrity checks, including signature verification and other validations. Should you encounter this verification, you should be aware that you have likely downloaded counterfeit software. If triggered during an update due to unforeseen issues, simply clear all software storage and attempt to reopen the application.
 In newer versions, we have introduced a "Security Repair" mode. Grant the module Root or file read permissions, then locate the "Security Repair" option in the main menu and click to remove restrictions.
 
-<div align="center">
+<p align="center">
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/menu.png">
-  </a>
-  </div>
-  
-<div align="center">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/menu.png" width="315" height="660">
+</a>
 <a href="https://github.com/JiGuroLGC/BetterVia">
-    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/fix.png">
-  </a>
-  </div>
-   
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/fix.png" width="315" height="660">
+</a>
+</p>
+
 ### Question Four
-<font colour="red">Why might module functionality fail or cause the Scope software to crash when using certain root-free frameworks?</font>
+<font color="red">Why might module functionality fail or cause the Scope software to crash when using certain root-free frameworks?</font>
 
 The module theoretically supports root-free frameworks. However, on some device models, the modification patches applied by root-free frameworks may conflict with the runtime environment of **BetterVia** or the Scope software, leading to crashes or malfunction. Should this occur, you may consider switching to an alternative patching method or framework.  
 
 ### Question Five
-<font colour="red">What should I do if I encounter access issues as a user in a restricted region?</font>
+<font color="red">What should I do if I encounter access issues as a user in a restricted region?</font>
 
 No worries. We have prepared alternative download links for you. We guarantee that the software and release versions downloaded via these backup links are identical. Additionally, our repositories are available on open-source platforms such as Gitee. You may proceed to the [release channels](#release) and download from other channels.
 
@@ -215,6 +349,10 @@ By running or using this software, the user is deemed to have carefully read, fu
 The final interpretation of this statement is reserved by the declarant.
 ```
 
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/statement.png" width="315" height="660">
+</a>
+
 ## Acknowledgments
 
 | Name         | Link                                                                                  | Details                     |
@@ -223,13 +361,16 @@ The final interpretation of this statement is reserved by the declarant.
 | Android IDE  | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE)             | Software for development and packaging             |
 | CoolApk @半烟半雨溪桥畔 | [半梦半醒 - Gitee](https://gitee.com/daybreak166/)                      | Provides themes and reference materials           |
 
+> [!NOTE]
+> Due to the large number of entries, they are not listed individually here. For details, please refer to the respective module pages.
+
 ## Support Us
 
 Email: jigurolui@gmail.com / JiGuroLiu@qq.com  
 We aspire to be an outstanding development team, continuously delivering exceptional work for everyone. If you have any suggestions for improvement, please feel free to share them directly. We will keep striving to do better. Let us persevere relentlessly and forge ahead on our journey toward our dreams! Thank you for your help and support!
 
-   <a href="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/reward.png">
-        <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/reward.png" alt="socialify"/>
-    </a>
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/reward.png" width="400" height="400">
+</a>
 
 Copyright © 2025 JiGuro
