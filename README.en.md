@@ -382,4 +382,4 @@ We aspire to be an outstanding development team, continuously delivering excepti
     <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/reward.png" width="400" height="400">
 </a>
 
-Copyright © 2025 JiGuro
+Copyright © 2026 JiGuro
