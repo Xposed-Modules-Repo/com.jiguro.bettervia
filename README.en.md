@@ -5,13 +5,13 @@
   <h3>Make Via better</h3>
 
   <a href="https://github.com/JiGuroLGC/BetterVia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/BetterVia?label=stars"></a>
-  <a href="https://github.com/pre-commit/pre-commit">
-    <img src="https://img.shields.io/github/downloads/JiGuroLGC/BetterVia/total?color=0000CD" height="20" alt="pre-commit">
+  <a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.jiguro.bettervia/total?color=0000CD" height="20" alt="download-num">
   </a>
   <a href="https://github.com/JiGuroLGC/BetterVia">
     <img src="https://img.shields.io/github/repo-size/JiGuroLGC/BetterVia" height="20" alt="repo-size">
   </a>
-  <a href="https://github.com/JiGuroLGC/BetterVia">
+  <a href="https://github.com/pre-commit/pre-commit">
     <img src="https://img.shields.io/badge/pre--commit-open-brightgreen?logo=pre-commit&logoColor=white" height="20" alt="pre-commit">
   </a>
   <a href="https://github.com/JiGuroLGC/BetterVia/releases">
