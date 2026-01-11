@@ -4,6 +4,7 @@
   <h1>BetterVia</h1>
   <h3>让Via变得更好</h3>
 
+
   <a href="https://github.com/JiGuroLGC/BetterVia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/BetterVia?label=stars"></a>
   <a href="https://github.com/JiGuroLGC/BetterVia">
     <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.jiguro.bettervia/total?color=0000CD" height="20" alt="download-num">
@@ -92,10 +93,12 @@
 
 <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/icon.png" width = "100" height = "100" alt="LOGO"/>
 
-**Via** ( **mark.via** / **mark.via.gp** )  
+**Via** ( **mark.via** / **mark.via.gp** / **其他任意包名** )  
 *支持V6.9.0版本*  
 
-> 本项目支持国内版、谷歌版两种版本的Via
+> 本项目支持国内版、谷歌版两种版本的Via  
+
+> 内置简体中文、繁体中文、英语三种语言
 
 ### 功能
 
@@ -295,7 +298,7 @@
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | 正式版 |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | 正式版 |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | 正式版 |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/i25bQ3f2wvod) | 正式版 (备用) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/iDliJ3ftc4ti) | 正式版 (备用) |
 
 本模块发布地址仅限于上述所列出的地址，从其他非正规渠道下载到的版本或对您造成任何影响均与我们无关。
 
