@@ -92,10 +92,12 @@ However, **Via** still has some shortcomings, such as incomplete features and oc
 
 <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/icon.png" width = "100" height = "100" alt="LOGO"/>
 
-**Via** ( **mark.via** / **mark.via.gp** )  
+**Via** (**mark.via** / **mark.via.gp** / **any other package name**)  
 *Supports version V6.9.0*  
 
-> This project supports both the Chinese version and the Google version of Via
+> This project supports both the China-based and Google-based versions of Via  
+
+> Built-in support for Simplified Chinese, Traditional Chinese, and English
 
 ### Features
 
@@ -295,7 +297,7 @@ Configure your personalized settings and enjoy!
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | Official Version |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | Official Version |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | Official Version |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/i25bQ3f2wvod) | Official Version (Standby) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/iDliJ3ftc4ti) | Official Version (Standby) |
 
 This module is only available for download from the addresses listed above. We are not responsible for any versions obtained through unauthorized channels or for any consequences that may arise from such actions.
 
