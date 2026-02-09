@@ -4,7 +4,6 @@
   <h1>BetterVia</h1>
   <h3>让Via变得更好</h3>
 
-
   <a href="https://github.com/JiGuroLGC/BetterVia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/JiGuroLGC/BetterVia?label=stars"></a>
   <a href="https://github.com/JiGuroLGC/BetterVia">
     <img src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.jiguro.bettervia/total?color=0000CD" height="20" alt="download-num">
@@ -128,7 +127,16 @@
     <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings2.png" width="315" height="660">
 </a>
 </p>
-<div align="center">设置界面(续)</div>
+<div align="center">设置界面(续1)</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings3.png" width="315" height="660">
+</a>
+</p>
+<div align="center">设置界面(续2)</div>
 
 <br>
 
@@ -167,6 +175,33 @@
 </a>
 </p>
 <div align="center">广告规则</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet.png" width="315" height="660">
+</a>
+</p>
+<div align="center">莫奈时刻</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet2.png" width="315" height="660">
+</a>
+</p>
+<div align="center">莫奈时刻(续1)</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet3.png" width="315" height="660">
+</a>
+</p>
+<div align="center">莫奈时刻(续2)</div>
 
 <!----------------------- Cookie 管理 ------------------------>
 
@@ -240,6 +275,15 @@
 </a>
 </p>
 <div align="center">快捷命令</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/blockmenu.png" width="315" height="660">
+</a>
+</p>
+<div align="center">屏蔽菜单栏</div>
 
 <br>
 
@@ -367,8 +411,18 @@
 
 | 名称 | 链接 | 详情 |
 | :--- | :--- | :--- |
-| AIDE Pro | —— | 开发打包软件 |
+| AIDE + | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | 开发打包软件 |
 | Android IDE | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE) | 开发打包软件 |
+| AOSP | [Android Open Source Project](https://source.android.google.cn) | 提供资源和参考 |
+| Xposed Framework API | [Xposed Framework API](https://api.xposed.info) | 提供Xposed接口支持 |
+| apksig | [apksig - mvnrepository](https://mvnrepository.com/artifact/com.android.tools.build/apksig) | 提供安装包签名支持 |
+| MT管理器 | [MT官网](https://mt2.cn) | 管理工程等 |
+| NP管理器 | [NP-Manager - Github](https://github.com/githubXiaowangzi/NP-Manager) | 提供混淆保护支持 |
+| DeepSeek | [DeepSeek - 深度求索](https://www.deepseek.com) | 辅助编程和整理文件 |
+| Kimi | [Kimi AI 官网](https://www.kimi.com) | 辅助编程和整理文件 |
+| ChatGPT | [ChatGPT官网](https://chatgpt.com) | 辅助编程和整理文件 |
+| Google Gemini | [Google Gemini](https://gemini.google.com) | 辅助编程和整理文件 |
+| iFlow | [iFlow - 心流开放平台](https://platform.iflow.cn) | 辅助编程和整理文件 |
 | 酷安 @半烟半雨溪桥畔 | [半梦半醒 - Gitee](https://gitee.com/daybreak166/) | 提供主题等资料参考 |
 | 酷安 @sgfox | [sgfox - 拾穗收集整理](https://www.sgfox.cc/archives/via-shisui.html) | 提供“拾穗”内容 |
 
