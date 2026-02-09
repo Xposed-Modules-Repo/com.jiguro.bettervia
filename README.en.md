@@ -127,7 +127,16 @@ To be continued...
     <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings2.png" width="315" height="660">
 </a>
 </p>
-<div align="center">Settings Interface (Continued)</div>
+<div align="center">Settings Interface (Continued1)</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/settings3.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Settings Interface (Continued2)</div>
 
 <br>
 
@@ -166,6 +175,33 @@ To be continued...
 </a>
 </p>
 <div align="center">Advertising Rules</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Monet Moment</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet2.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Monet Moment (Continued1)</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/monet3.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Monet Moment (Continued2)</div>
 
 <!----------------------- Cookie 管理 ------------------------>
 
@@ -239,6 +275,15 @@ To be continued...
 </a>
 </p>
 <div align="center">Quick Commands</div>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JiGuroLGC/BetterVia">
+    <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/blockmenu.png" width="315" height="660">
+</a>
+</p>
+<div align="center">Block Menu Bar</div>
 
 <br>
 
@@ -367,10 +412,20 @@ The final interpretation of this statement is reserved by the declarant.
 
 | Name | Link | Details |
 | :--- | :--- | :--- |
-| AIDE Pro | —— | Software for development and packaging |
-| Android IDE | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE) | Software for development and packaging |
-| CoolApk @半烟半雨溪桥畔 | [半梦半醒 - Gitee](https://gitee.com/daybreak166/) | Provides themes and reference materials |
-| CoolApk @sgfox | [sgfox - 拾穗收集整理](https://www.sgfox.cc/archives/via-shisui.html) | Provide “Shihui” content |
+| AIDE + | [AIDE-Plus - GitHub](https://github.com/AndroidIDE-CN/AIDE-Plus) | Development and packaging software |
+| Android IDE | [Android IDE - GitHub](https://github.com/AndroidIDEOfficial/AndroidIDE) | Development and packaging software |
+| AOSP | [Android Open Source Project](https://source.android.google.cn) | Provides resources and references |
+| Xposed Framework API | [Xposed Framework API](https://api.xposed.info) | Provides Xposed interface support |
+| apksig | [apksig - mvnrepository](https://mvnrepository.com/artifact/com.android.tools.build/apksig) | Provides APK signing support |
+| MT Manager | [MT Official Website](https://mt2.cn) | Manages projects, etc. |
+| NP Manager | [NP-Manager - Github](https://github.com/githubXiaowangzi/NP-Manager) | Provides obfuscation protection support |
+| DeepSeek | [DeepSeek - Deep Exploration](https://www.deepseek.com) | Assists with programming and file organization |
+| Kimi | [Kimi AI Official Website](https://www.kimi.com) | Programming assistance and file organization |
+| ChatGPT | [ChatGPT Official Website](https://chatgpt.com) | Programming assistance and file organization |
+| Google Gemini | [Google Gemini](https://gemini.google.com) | Programming assistance and file organization |
+| iFlow | [iFlow - Flow Open Platform](https://platform.iflow.cn) | Programming assistance and file organization |
+| Coolapk @半烟半雨溪桥畔 | [HalfDreamHalfAwake - Gitee](https://gitee.com/daybreak166/) | Provides themes and reference materials |
+| Coolapk @sgfox | [sgfox - Shihui Collection](https://www.sgfox.cc/archives/via-shisui.html) | Provides "Shihui" content |
 
 > [!NOTE]
 > Due to the large number of entries, they are not listed individually here. For details, please refer to the respective module pages.
