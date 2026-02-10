@@ -104,6 +104,7 @@ However, **Via** still has some shortcomings, such as incomplete features and oc
 - Remove whitelist restrictions
 - One-click theme switching
 - Script library
+- Monet's color selection
 - Ad rule downloads
 - Cookie management
 - Super incognito mode
@@ -342,7 +343,7 @@ Configure your personalized settings and enjoy!
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | Official Version |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | Official Version |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | Official Version |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/iDliJ3ftc4ti) | Official Version (Standby) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(Password：8888)**](https://jiguro.lanzouw.com/iinwq3i3w0wj) | Official Version (Standby) |
 
 This module is only available for download from the addresses listed above. We are not responsible for any versions obtained through unauthorized channels or for any consequences that may arise from such actions.
 
@@ -389,6 +390,8 @@ No worries. We have prepared alternative download links for you. We guarantee th
 
 ### For details on removing whitelist restrictions, see [MT论坛 -- 【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html)
 
+### For details about the "Monet Moment", please refer to the specific page of the module.
+
 <span id="statement"></span>
 
 ## Disclaimer
@@ -429,6 +432,20 @@ The final interpretation of this statement is reserved by the declarant.
 
 > [!NOTE]
 > Due to the large number of entries, they are not listed individually here. For details, please refer to the respective module pages.
+
+## License
+
+**BetterVia** is proprietary software and is not licensed under an open-source license. Redistribution, sale, reverse engineering, or any commercial use and modification are prohibited without permission.
+
+This software incorporates the following third-party open-source components:
+
+- **apksig** - Android Open Source Project (AOSP)
+  - License: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+  - License file: [LICENSES/LICENSE-AOSP](https://github.com/JiGuroLGC/BetterVia/blob/main/LICENSES/LICENSE-AOSP)
+
+---
+
+*Copyright of the apksig library belongs to its original authors and is protected under the Apache 2.0 License.*
 
 ## Support Us
 
