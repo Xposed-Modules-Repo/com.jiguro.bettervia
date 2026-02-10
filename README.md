@@ -104,6 +104,7 @@
 - 解除白名单限制
 - 一键主题更换
 - 脚本大全
+- 莫奈取色
 - 广告规则下载
 - Cookie管理
 - 超级隐身
@@ -342,7 +343,7 @@
 | <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" width="30" height="30" alt="LOGO"/> | [GitHub Releases](https://github.com/JiGuroLGC/BetterVia/releases) | 正式版 |
 | <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/gitee.png" width="30" height="30" alt="LOGO"/> | [Gitee Releases](https://gitee.com/jiguro/BetterVia/releases) | 正式版 |
 | <img src="https://avatars.githubusercontent.com/u/78217009?s=200&v=4?raw=true" width="30" height="30" alt="LOGO"/> | [Xposed-Modules-Repo](https://modules.lsposed.org/module/com.jiguro.bettervia) | 正式版 |
-| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/iDliJ3ftc4ti) | 正式版 (备用) |
+| <img src="https://raw.githubusercontent.com/JiGuroLGC/BetterVia/main/img/lanzou.jpg" width="30" height="30" alt="LOGO"/> | [蓝奏云网盘 **(密码：8888)**](https://jiguro.lanzouw.com/iinwq3i3w0wj) | 正式版 (备用) |
 
 本模块发布地址仅限于上述所列出的地址，从其他非正规渠道下载到的版本或对您造成任何影响均与我们无关。
 
@@ -389,6 +390,8 @@
 
 ### 关于去除白名单，详见 [MT论坛 -- 【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html)
 
+### 关于莫奈时刻，详见模块具体页面
+
 <span id="statement"></span>
 
 ## 免责声明
@@ -428,6 +431,20 @@
 
 > [!NOTE]
 > 由于人数过多，这里不一一列出，详见模块各详情页面
+
+## 许可证
+
+**BetterVia** 为专有软件，未采用开源许可证。未经许可，不得引流、售卖、逆向及一切商业和修改。
+
+本软件使用了以下第三方开源组件：
+
+- **apksig** - Android Open Source Project (AOSP)
+  - 许可证：[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+  - 许可证文件：[LICENSES/LICENSE-AOSP](https://github.com/JiGuroLGC/BetterVia/blob/main/LICENSES/LICENSE-AOSP)
+
+---
+
+*apksig 库的版权归属其原作者，受 Apache 2.0 许可证保护*
 
 ## 支持我们
 
